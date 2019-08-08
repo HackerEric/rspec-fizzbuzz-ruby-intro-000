@@ -8,5 +8,5 @@ def fizzbuzz(int)
   elsif int % 3
     put "Fizz"
   else
-    put "nil"
+    nil
 end
