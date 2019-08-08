@@ -8,4 +8,4 @@ def fizzbuzz
     elsif int % 3
       put "Fizz"
     else
-      nilx
+end
