@@ -3,10 +3,8 @@
 def fizzbuzz
     if int % 3 && int % 5
       put "FizzBuzz"
-    end
     elsif int % 5
       put "Buzz"
-    end
     elsif int % 3
       put "Fizz"
     end
